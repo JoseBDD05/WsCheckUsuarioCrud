@@ -1,4 +1,4 @@
-# wsCheckUsuario
+# wsCheckUsuarioCrud
 ## José Antonio Fuentes Ramírez
 ## 03 de mayo de 2025
 Este es la primera versión del proyecto.
